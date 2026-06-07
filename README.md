@@ -17,9 +17,3 @@ GenImage Dataset
 Results
 Accuracy: 99.41%
 Outperformed baseline CNN and ensemble models
-Technologies Used
-Python
-TensorFlow / Keras
-NumPy
-Pandas
-Scikit-learn
